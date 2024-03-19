@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+beyond the blueprint is a platform aimed at combatting the conventional perception of engineering as a male-dominated field and showcasing the life of a girl in engineering. i like to call it "pink-prints," a playful nod to the traditional blueprints of engineering and a declaration of inclusivity and diversity.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+get ready for a journey into the world of engineering with me! i'll share my own ups and downs, spotlight amazing women in the field, break down complex engineering concepts, and spark discussions on diversity and inclusion. from career tips to cool projects, "beyond the blueprint" is your hub for all things engineering, delivered in a fun and relatable way. join the community, get inspired, and let's make some bright pink waves in the world of stem together!
