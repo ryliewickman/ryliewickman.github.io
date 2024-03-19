@@ -1,10 +1,6 @@
-## Blog Post Title From First Header
+## welcome to "beyond the blueprint"
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+hey there! i'm excited to kick off this blog journey with you all. i'm Rylie Wickman, an engineering student diving headfirst into the world of STEM. currently, i'm studying at vancouver island university's engineering transfer program, with plans to pursue mechanical engineering at the university of british colombia. this blog, "beyond the blueprint," is my space to share my experiences, connect with fellow engineering enthusiasts, and champion diversity in the field. join me as i navigate the challenges, celebrate the successes, and showcase the incredible women shaping the future of engineering. 
 
 ---
 
